@@ -1,0 +1,49 @@
+h1 {
+    color: black;
+    background-color: cornsilk;
+    display: flex;
+    justify-content: center;
+    margin: 0px 0px 20px;
+}
+
+.master {
+    background-color: rgb(166, 180, 194);
+    height: auto;
+    width: auto;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items:flex-start;
+}
+
+
+
+.box0 {
+    height: 20px;
+    width: 20px;
+    background-color:rgb(30, 47, 80);
+    border: solid .5px black;
+}
+
+.box1 {
+    height: 20px;
+    width: 20px;
+    background-color:rgb(233, 108, 62);
+    border: solid .5px black;
+}
+
+.boox0 {
+    height: 20px;
+    width: 20px;
+    background-color:lightseagreen;
+    border: solid .5px black;
+}
+
+.boox1 {
+    height: 20px;
+    width: 20px;
+    background-color:rgb(32, 63, 18);
+    border: solid .5px black;
+}
